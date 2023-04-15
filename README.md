@@ -1,5 +1,4 @@
-<img align ="center" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2019/10/Android-Developer-Challenge-2019.jpg" alt="back">
-<h1 align="center">Hi 👋, I'm Hard Pael</h1>
+<h1 align="center">Hi 👋, I'm Hard Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardpatel2005&label=Profile%20views&color=0e75b6&style=flat" alt="hardpatel2005" /> </p>
