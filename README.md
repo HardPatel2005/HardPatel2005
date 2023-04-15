@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **c, python and javascript**
 
+- My portfolio design at  [https://hardpatel2005.github.io/]( https://hardpatel2005.github.io/)
+
 - 📫 How to reach me **harsadp391@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
